@@ -18,4 +18,7 @@ public enum GDAXProductId: String {
     case LTCUSD = "LTC-USD"
     case LTCBTC = "LTC-BTC"
     case LTCEUR = "LTC-EUR"
+    case BCHUSD = "BCH-USD"
+    case BCHBTC = "BCH-BTC"
+    case BCHEUR = "BCH-EUR"
 }
